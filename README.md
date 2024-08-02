@@ -1,7 +1,7 @@
 # AIML-2025-2303a51043
 # R.Srija
 # Artificial Intelligencce and Machine Learning Lab Instruction Sheets
-1. [Lab 01]():Introduction to python Libraries-Numpy
+1. [Lab 01](https://github.com/2303a51043/AIML-2025/blob/main/AIML_A1.pdf):Introduction to python Libraries-Numpy
 2. [Lab 02]():Introduction to python Libraries-Numpy
 3. [Lab 03]():Introduction to python Libraries-Numpy
 4. [Lab 04]():Introduction to python Libraries-Numpy
